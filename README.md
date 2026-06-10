@@ -1,2 +1,2 @@
 # Trading Journal
-GitHub Pages compatible dark theme journal.
+GitHub Pages compatible dark theme journal..
