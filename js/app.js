@@ -1,0 +1,1 @@
+document.getElementById('totalTrades').textContent='0';
